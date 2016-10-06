@@ -125,7 +125,7 @@
 					</div>
 				</div>
 			</div>			
-			<div class="box-submenu carros">
+			<div class="box-submenu carros hidden-sm hidden-xs">
 				<button>ver todos os carros</button>
 				<ul>
 					<li>Audi</li>
@@ -150,7 +150,7 @@
 					<li>Volkswagem</li>
 				</ul>
 			</div>
-			<div class="box-submenu testes"> 
+			<div class="box-submenu testes hidden-sm hidden-xs"> 
 				<ul>
 					<li class="active">Ver tudo de testes 
 						<span>

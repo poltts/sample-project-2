@@ -495,7 +495,7 @@ header.fixed{
 		header{
 			position: fixed;
 			z-index: 11;
-			min-width: 99%;
+			min-width: 100%;
 		}
 		header > .primary-content{
 			height: 55px;

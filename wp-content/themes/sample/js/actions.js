@@ -1,9 +1,9 @@
 var init = function(){
 	var windowW = $(window).width();
 
-	if(windowW >= 991){
 	
-
+	if(windowW > 991){
+console.log(1);
 		$(window).scroll(function(){  
 			if($(window).scrollTop() >= 1){
 				$("header").addClass('fixed');
